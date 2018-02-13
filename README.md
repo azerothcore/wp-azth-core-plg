@@ -1,4 +1,4 @@
-# wp-acore
+# WP AZTH Core Plugin
 
 AzerothCore plugin for wordpress
 
