@@ -1,5 +1,7 @@
 # WP AZTH Core Plugin
 
+## ⚠️ we moved the development [here as acore-cms](https://github.com/azerothcore/acore-cms/) ⚠️
+
 AzerothCore plugin for wordpress
 
 This plugin integrate database and soap connection with AzerothCore server allowing features such as:
